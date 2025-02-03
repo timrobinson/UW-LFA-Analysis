@@ -55,7 +55,7 @@ The next figure  represents a typical profile of a negative control.  The red re
 
 
 <p align="center">
-  <img src="https://github.com/timrobinson/UW-Candy-Collect/assets/15863043/7fd536ee-64f2-40dc-87ef-2c3c346e174d" width = "400">
+  <img src="Threshold.png" width = "400">
 </p>
 
 The positivity threshold is defined as three-sigma from the average negative control SBRs in accordance to the following equation:
