@@ -17,7 +17,7 @@ The Signal-to-Baseline ratio (SBR) and positivity thresholds are derived using c
 The figure below  shows an example of the original data acquired from a flatbed scanner.  The image should be saved using a lossless format such as .tiff file.  If the original image file is saved using a lossy format, such as .jpg, the script converts the image file to the lossless format.  
 
 <p align="center">
-  <img src ="https://github.com/timrobinson/UW-Candy-Collect/assets/15863043/19e8473f-f336-465e-9aff-415af29ea50d" width = "400">
+  <img src ="Original.png" width = "400">
 </p>
 
 The script performs several operations on this image.  First, it crops the original image of lossless format into multiple images, one for each test strip. Next, it converts the full-color (3D array) image to a monochrome (2D array) image to grayscale. This monochrome image is then inverted. The inverted image array is normalized to the bit-depth of the of the original image.  In our case, the original image was 8-bits per color channels.  Therefore, the inverted image is normalized by dividing the array by 255. The figure below shows the results for each step of this process.
