@@ -68,9 +68,9 @@ where $\mu$ symbolizes the mean and $\sigma$ denotes the standard deviation.
 
 **Final Graphing and Visualization**
 
-A dataframe consisting of sample identifiers, experiment date, bacterial load, SBR values, and positivity threshold values is subsequently generated.  This dataframe serves as the database for graphs used in the article.  The figure below provides an example of the graph and shows the SBR for various bacterial loads under each condition. 
+A dataframe consisting of sample identifiers, experiment date, bacterial load, SBR values, and positivity threshold values is subsequently generated.  The figure below provides an example of the graph and shows the SBR for various bacterial loads under each condition. 
 
 
 <p align="center">
-  <img src="https://github.com/timrobinson/UW-Candy-Collect/assets/15863043/e1b2bfe6-14d3-4ecf-8cb0-8e4b1a9ddcb7" width "400">
+  <img src="image.png" width "400">
 </p>
