@@ -42,7 +42,7 @@ The figure below represents a typical profile from a test strip exposed to a hig
 
 
 <p align="center">
-  <img src="https://github.com/timrobinson/UW-Candy-Collect/assets/15863043/a54ff36b-e873-4fa7-8784-7784665fdcd4" width = "400">
+  <img src="SBR Image.png" width = "400">
 </p>
 
 **Determining the Positivity Thresholds**
