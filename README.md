@@ -31,7 +31,7 @@ The profile, or rather the normalized digital number (intensity) for each pixel 
 
 
 <p align="center">
-  <img src ="https://github.com/timrobinson/UW-Candy-Collect/assets/15863043/fe724e3d-f400-4940-9152-af9d6b403eef" width = "400">
+  <img src ="Profile_Intensity.png" width = "400">
 </p>
 
 **Determining Signal-to Baseline Ratios**
